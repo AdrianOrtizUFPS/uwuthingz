@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ControladorLinea
+comment1.params=
+comment1.target=ControladorLinea()
+comment2.params=event
+comment2.target=void\ actualizarCoordenadas(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ ayuda(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ determinarUbicacion(javafx.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ xPunto1(javafx.event.ActionEvent)
+comment6.params=event
+comment6.target=void\ xPunto2(javafx.event.ActionEvent)
+comment7.params=event
+comment7.target=void\ yPunto1(javafx.event.ActionEvent)
+comment8.params=event
+comment8.target=void\ yPunto2(javafx.event.ActionEvent)
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EjecutableLinea
+comment0.text=\r\n\ Main\ /\ ejecutable\ para\ realizar\ calculos\ con\ Linea.\r\n\ @author\ (Milton\ Jes\u00FAs\ Vera\ Contreras\ -\ miltonjesusvc@ufps.edu.co)\r\n\ @version\ 0.000000000000001\ \:)\ -->\ Math.sin(Math.PI-Double.MIN_VALUE)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+numComments=2

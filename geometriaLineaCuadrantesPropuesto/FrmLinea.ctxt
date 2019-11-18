@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FrmLinea
+comment0.text=\r\n\ Un\ ejemplo\ que\ modela\ un\ Linea\ usando\ POO\r\n\ \r\n\ @author\ (Milton\ Jes\u00FAs\ Vera\ Contreras\ -\ miltonjesusvc@ufps.edu.co)\r\n\ @version\ 0.000000000000001\ \:)\ -->\ Math.sin(Math.PI-Double.MIN_VALUE)\r\n
+comment1.params=triangulo
+comment1.target=FrmLinea(Linea)
+comment1.text=Creates\ new\ form\ FrmLinea
+comment2.params=
+comment2.target=void\ initComponents()
+comment2.text=\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\r\n\ initialize\ the\ form.\r\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\r\n\ always\ regenerated\ by\ the\ Form\ Editor.\r\n
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ cmdDeterminarUbicacionActionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ cmdModificarLineaActionPerformed(java.awt.event.ActionEvent)
+comment8.params=evt
+comment8.target=void\ cmdAyudaActionPerformed(java.awt.event.ActionEvent)
+numComments=9
